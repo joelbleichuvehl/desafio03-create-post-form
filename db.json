@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pablo",
+      "email": "pablo@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "name": "José",
+      "email": "jose@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": "3",
+      "name": "Joel",
+      "email": "joel@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2f2b",
+      "name": "sdfdsf",
+      "email": "fsdf",
+      "senha": "fdsf"
+    },
+    {
+      "id": "f530",
+      "name": "Andre",
+      "email": "andre@gmail.com",
+      "senha": "1234"
+    }
+  ]
+}
